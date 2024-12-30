@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mnu_take_picture"
+        android:title="Take Picture" />
+    <item
+        android:id="@+id/mnu_whatsapp"
+        android:title="Whatsapp" />
+    <item
+        android:id="@+id/mnu_sms"
+        android:title="SMS" />
+    <item
+        android:id="@+id/mnu_call"
+        android:title="Call" />
+    <item
+        android:id="@+id/mnu_mail"
+        android:title="Mail" />
+    <item
+        android:id="@+id/mnu_clock"
+        android:title="Clock" />
+    <item
+        android:id="@+id/mnu_website"
+        android:title="Website" />
+    <item
+        android:id="@+id/mnu_youtube"
+        android:title="Youtube" />
+    <item
+        android:id="@+id/mnu_maps"
+        android:title="Maps" />
+    <item
+        android:id="@+id/mnu_waze"
+        android:title="Waze Navigation" />
+    <item
+        android:id="@+id/mnu_maps_navigation"
+        android:title="Maps Navigation" />
+</menu>
